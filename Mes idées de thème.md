@@ -1,7 +1,7 @@
 # ** Mes idées de thème pour le travail de fin d'année !**
 
 
-## [color=#7B68EE] _Les drones_ [\color]
+## <span style="color: #7B68EE"> _Les drones_ </span>
 
 Depuis que j'ai eu la chance d'assister à un tournage vidéo avec un drone et que j'ai pu le piloter, ces appareils volants semblables à des insectes me fascinent de part les nombreuses opportunités qu'ils offrent c'est pourquoi j'aimerais beaucoup pouvoir appronfondir mes connaissances sur le sujet !
 
@@ -13,7 +13,7 @@ Pour en savoir plus :
 - [Futura science](https://www.futura-sciences.com/sciences/definitions/aeronautique-drone-6174/)
 
 
-##![color=#7B68EE] _Les systèmes de positionnement (GPS,GNSS,...)_ [\color]
+## <span style="color: #7B68EE"> _Les systèmes de positionnement (GPS,GNSS,...)_ </span>
 
 J'ai choisi ce sujet parce que je suis quelqu'un qui a malheureusement un sens de l'orientation déplorable donc j'ai bien souvent recourt à ces technologies notamment quand je pars faire des expéditions à vélo et que je finis par me perdre. Je trouve donc intéressant de se pencher sur un sujet que je cotoye mais dont je ne connais pas grand chose.
 
