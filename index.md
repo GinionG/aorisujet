@@ -1,4 +1,4 @@
-CE TRUC N'A AUCUNE F****NG LOGIQUE ARGH
+
 # **Mes idées de thème pour le travail de fin d'année !**
 
 
