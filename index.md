@@ -14,14 +14,4 @@ Pour en savoir plus :
 - [Futura science](https://www.futura-sciences.com/sciences/definitions/aeronautique-drone-6174/)
 
 
-## <span style="color: #7B68EE"> _Les systèmes de positionnement (GPS,GNSS,...)_ </span>
-
-J'ai choisi ce sujet parce que je suis quelqu'un qui a malheureusement un sens de l'orientation déplorable donc j'ai bien souvent recourt à ces technologies notamment quand je pars faire des expéditions à vélo et que je finis par me perdre. Je trouve donc intéressant de se pencher sur un sujet que je cotoye mais dont je ne connais pas grand chose.
-
-![GPS image](https://www.lespritsorcier.org/wp-content/uploads/2015/10/Galileo-IOV-sat-825x510.jpg)
-
-Pour en savoir plus :
-
-- [Wikipedia](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_positionnement_par_satellites#GPS)
-- [L'esprit sorcier](https://www.lespritsorcier.org/blogs-membres/systeme-de-positionnement-satellites/)
 
